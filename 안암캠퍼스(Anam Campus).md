@@ -153,12 +153,26 @@
 >사이트 http://info.korea.ac.kr
 
 ## 보건과학대학
+1. 바이오의공학부
+>사이트 http://bmeng.korea.ac.kr
+
+2. 바이오시스템의과학부
+>사이트 http://chs.korea.ac.kr/bsm
+
+3. 보건환경융합과학부
+>사이트 http://chs.korea.ac.kr/hes
+
+4. 보건정책관리학부
+>사이트 http://chs.korea.ac.kr/hpm
 
 ## 디자인조형학부
+>사이트 http://and.korea.ac.kr
 
 ## 국제학부
+>사이트 http://dis.korea.ac.kr/ko/
 
 ## 미디어학부
+>사이트 http://masscom.korea.ac.kr
 
 ## 자유전공학부
-
+>사이트 http://sis.korea.ac.kr
