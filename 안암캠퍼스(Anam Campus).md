@@ -52,28 +52,112 @@
 >사이트 http://kling.korea.ac.kr
  
 ## 생명과학대학
- 사이트
+1. 생명과학부
+>사이트 http://ls.korea.ac.kr
+
+2. 생명공학부
+>사이트 http://bio.korea.ac.kr
+
+3. 식품공학과
+>사이트 http://foodscience.korea.ac.kr
+
+4. 환경생태공학부
+>사이트 http://eco.korea.ac.kr
+
+5. 식품자원경제학과
+>사이트 http://frecon.korea.ac.kr
+
 ## 정경대학
- 사이트
+1. 정치외교학과
+>사이트 http://politics.korea.ac.kr
+
+2. 경제학과
+>사이트 http://econ.korea.ac.kr
+
+3. 통계학과
+>사이트 http://stat.korea.ac.kr
+
+4. 행정학과
+>사이트 http://kupa.korea.ac.kr
+
 ## 이과대학
- 사이트
+1. 수학과
+>사이트 http://math.korea.ac.kr
+
+2. 물리학과
+>사이트 http://physics.korea.ac.kr
+
+3. 화학과
+>사이트 http://chem.korea.ac.kr
+
+4. 지구환경과학과
+>사이트 http://ees.korea.ac.kr
+
 ## 공과대학
- 사이트
+1. 신소재공학부
+>사이트 http://mse.korea.ac.kr
+
+2. 화공생명공학과
+>사이트 http://cbe.korea.ac.kr
+
+3. 건축사회환경공학부
+>사이트 http://ace.korea.ac.kr
+
+4. 건축학과
+>사이트 http://archi.korea.ac.kr
+
+5. 기계공학부
+>사이트 http://me.korea.ac.kr
+
+6. 산업경영공학부
+>사이트 http://ie.korea.ac.kr
+
+7. 전기전자공학부
+>사이트 http://ee.korea.ac.kr
+
 ## 의과대학
- 사이트
+>사이트 http://medicine.korea.ac.kr
+
 ## 사범대학
- 사이트
+1. 교육학과
+>사이트 http://edu.korea.ac.kr
+
+2. 체육교육과
+>사이트 http://phyedu.korea.ac.kr
+
+3. 가정교육과
+>사이트 http://homedu.korea.ac.kr
+
+4. 수학교육과
+>사이트 http://mathedu.korea.ac.kr
+
+5. 국어교육과
+>사이트 http://koredu.korea.ac.kr
+
+6. 영어교육과
+>사이트 http://eled.korea.ac.kr
+
+7. 지리교육과
+>사이트 http://geoedu.korea.ac.kr
+
+8. 역사교육과
+>사이트 http://hisedu.korea.ac.kr
+
+9. 컴퓨터교육과
+>사이트 http://comedu.korea.ac.kr
+
 ## 간호대학
- 사이트
+>사이트 http://nursing.korea.ac.kr
+
 ## 정보대학
- 사이트
+
 ## 보건과학대학
- 사이트
+
 ## 디자인조형학부
- 사이트
+
 ## 국제학부
- 사이트
+
 ## 미디어학부
- 사이트
+
 ## 자유전공학부
- 사이트
+
