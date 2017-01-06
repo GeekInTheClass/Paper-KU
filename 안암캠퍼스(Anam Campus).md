@@ -3,12 +3,7 @@
 >사이트 http://www.korealawschool.com
 
 1. 전임교수
->강병근
->강수진
->김경욱
->김규완
->김기창
->김명숙
+>
  
 ## 경영대학
 >사이트 http://biz.korea.ac.kr
