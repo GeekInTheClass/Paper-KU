@@ -6,7 +6,7 @@
  >사이트 http://biz.korea.ac.kr
  
 ## 문과대학
- . 국어국문학과
+ ㄱ. 국어국문학과
   >사이트 http://lib001.korea.ac.kr
   
  ㄴ. 철학과
