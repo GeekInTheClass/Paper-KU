@@ -13,32 +13,43 @@
   >사이트 http://lib003.korea.ac.kr
   
  3. 한국사학과
-  사이트 http://koreahistory.korea.ac.kr
+  >사이트 http://koreahistory.korea.ac.kr
   
  4. 사학과
-  사이트 http://kuhistory.korea.ac.kr
+  >사이트 http://kuhistory.korea.ac.kr
+  
  5. 심리학과
-  사이트 http://psy.korea.ac.kr
+  >사이트 http://psy.korea.ac.kr
+  
  6. 사회학과
-  사이트 http://socio.korea.ac.kr
+  >사이트 http://socio.korea.ac.kr
+  
  7. 한문학과
-  사이트 http://kuweb.korea.ac.kr/genesys
+  >사이트 http://kuweb.korea.ac.kr/genesys
+  
  8. 영어영문학과
-  사이트 http://english.korea.ac.kr
+  >사이트 http://english.korea.ac.kr
+  
  9. 독어독문학과
-  사이트 http://kugermanistik.korea.ac.kr
+  >사이트 http://kugermanistik.korea.ac.kr
+  
  10. 불어불문학과
-  사이트 http://www.kufra.org
+  >사이트 http://www.kufra.org
+  
  11. 중어중문학과
-  사이트 http://kuchinese.kr
+  >사이트 http://kuchinese.kr
+  
  12. 노어노문학과
-  사이트 http://kuruss.net
+  >사이트 http://kuruss.net
+  
  13. 일어일문학과
-  사이트 http://www.kujap.com
+  >사이트 http://www.kujap.com
+  
  14. 서어서문학과
-  사이트 http://spanish.korea.ac.kr
+  >사이트 http://spanish.korea.ac.kr
+  
  15. 언어학과
-  사이트 http://kling.korea.ac.kr
+  >사이트 http://kling.korea.ac.kr
  
 ## 생명과학대학
  사이트
