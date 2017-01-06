@@ -6,17 +6,17 @@
  >사이트 http://biz.korea.ac.kr
  
 ## 문과대학
- ㄱ. 국어국문학과
-  >사이트 http://lib001.korea.ac.kr
+1. 국어국문학과
+>사이트 http://lib001.korea.ac.kr
   
- ㄴ. 철학과
-  >사이트 http://lib003.korea.ac.kr
+2. 철학과
+>사이트 http://lib003.korea.ac.kr
   
- ㄷ. 한국사학과
-  >사이트 http://koreahistory.korea.ac.kr
+3. 한국사학과
+>사이트 http://koreahistory.korea.ac.kr
   
- ㄹ. 사학과
-  >사이트 http://kuhistory.korea.ac.kr
+4. 사학과
+>사이트 http://kuhistory.korea.ac.kr
   
  ㅁ. 심리학과
   >사이트 http://psy.korea.ac.kr
