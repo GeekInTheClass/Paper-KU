@@ -150,6 +150,7 @@
 >사이트 http://nursing.korea.ac.kr
 
 ## 정보대학
+>사이트 http://info.korea.ac.kr
 
 ## 보건과학대학
 
