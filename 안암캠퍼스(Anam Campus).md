@@ -1,7 +1,6 @@
 # 안암캠퍼스
 ## 법과대학
 >사이트 http://www.korealawschool.com
-<br />
 
 1. 전임교수
 >강병근
