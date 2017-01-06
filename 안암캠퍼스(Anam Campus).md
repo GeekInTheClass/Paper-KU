@@ -3,7 +3,7 @@
 >사이트 http://www.korealawschool.com
 
 1. 전임교수
-_//* 강병근
+_* 강병근
  
 ## 경영대학
 >사이트 http://biz.korea.ac.kr
