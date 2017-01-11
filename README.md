@@ -156,6 +156,12 @@
 ## 정보대학
 >사이트 http://info.korea.ac.kr
 
+1. 컴퓨터학과
+>사이트 http://cs.korea.ac.kr
+
+2. 사이버 국방학과
+>사이트 http://gss.korea.ac.kr
+
 ## 보건과학대학
 1. 바이오의공학부
 >사이트 http://bmeng.korea.ac.kr
