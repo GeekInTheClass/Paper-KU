@@ -1019,7 +1019,7 @@
                     </navigationItem>
                     <userDefinedRuntimeAttributes>
                         <userDefinedRuntimeAttribute type="string" keyPath="name" value="KaKaoTalk"/>
-                        <userDefinedRuntimeAttribute type="string" keyPath="activityIcon" value="PaperKaKao"/>
+                        <userDefinedRuntimeAttribute type="string" keyPath="activityIcon" value="paperkakaoB2"/>
                     </userDefinedRuntimeAttributes>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Wc6-OZ-cwn" sceneMemberID="firstResponder"/>
