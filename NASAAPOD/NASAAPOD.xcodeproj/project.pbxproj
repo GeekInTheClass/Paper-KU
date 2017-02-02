@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AD83F2C01E405D750073CC04 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD83F2BF1E405D750073CC04 /* AppDelegate.swift */; };
+		AD83F2C21E405D750073CC04 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD83F2C11E405D750073CC04 /* ViewController.swift */; };
+		AD83F2C51E405D750073CC04 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD83F2C31E405D750073CC04 /* Main.storyboard */; };
+		AD83F2C71E405D750073CC04 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD83F2C61E405D750073CC04 /* Assets.xcassets */; };
+		AD83F2CA1E405D750073CC04 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD83F2C81E405D750073CC04 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		AD83F2BC1E405D750073CC04 /* NASAAPOD.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NASAAPOD.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD83F2BF1E405D750073CC04 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		AD83F2C11E405D750073CC04 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		AD83F2C41E405D750073CC04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AD83F2C61E405D750073CC04 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		AD83F2C91E405D750073CC04 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		AD83F2CB1E405D750073CC04 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AD83F2B91E405D740073CC04 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AD83F2B31E405D740073CC04 = {
+			isa = PBXGroup;
+			children = (
+				AD83F2BE1E405D750073CC04 /* NASAAPOD */,
+				AD83F2BD1E405D750073CC04 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AD83F2BD1E405D750073CC04 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AD83F2BC1E405D750073CC04 /* NASAAPOD.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AD83F2BE1E405D750073CC04 /* NASAAPOD */ = {
+			isa = PBXGroup;
+			children = (
+				AD83F2BF1E405D750073CC04 /* AppDelegate.swift */,
+				AD83F2C11E405D750073CC04 /* ViewController.swift */,
+				AD83F2C31E405D750073CC04 /* Main.storyboard */,
+				AD83F2C61E405D750073CC04 /* Assets.xcassets */,
+				AD83F2C81E405D750073CC04 /* LaunchScreen.storyboard */,
+				AD83F2CB1E405D750073CC04 /* Info.plist */,
+			);
+			path = NASAAPOD;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AD83F2BB1E405D740073CC04 /* NASAAPOD */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AD83F2CE1E405D750073CC04 /* Build configuration list for PBXNativeTarget "NASAAPOD" */;
+			buildPhases = (
+				AD83F2B81E405D740073CC04 /* Sources */,
+				AD83F2B91E405D740073CC04 /* Frameworks */,
+				AD83F2BA1E405D740073CC04 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = NASAAPOD;
+			productName = NASAAPOD;
+			productReference = AD83F2BC1E405D750073CC04 /* NASAAPOD.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AD83F2B41E405D740073CC04 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0820;
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = PSJ;
+				TargetAttributes = {
+					AD83F2BB1E405D740073CC04 = {
+						CreatedOnToolsVersion = 8.2.1;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = AD83F2B71E405D740073CC04 /* Build configuration list for PBXProject "NASAAPOD" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AD83F2B31E405D740073CC04;
+			productRefGroup = AD83F2BD1E405D750073CC04 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AD83F2BB1E405D740073CC04 /* NASAAPOD */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AD83F2BA1E405D740073CC04 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD83F2CA1E405D750073CC04 /* LaunchScreen.storyboard in Resources */,
+				AD83F2C71E405D750073CC04 /* Assets.xcassets in Resources */,
+				AD83F2C51E405D750073CC04 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AD83F2B81E405D740073CC04 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AD83F2C21E405D750073CC04 /* ViewController.swift in Sources */,
+				AD83F2C01E405D750073CC04 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AD83F2C31E405D750073CC04 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD83F2C41E405D750073CC04 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AD83F2C81E405D750073CC04 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AD83F2C91E405D750073CC04 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AD83F2CC1E405D750073CC04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		AD83F2CD1E405D750073CC04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AD83F2CF1E405D750073CC04 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NASAAPOD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.korea.paper.NASAAPOD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		AD83F2D01E405D750073CC04 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = NASAAPOD/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = kr.ac.korea.paper.NASAAPOD;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AD83F2B71E405D740073CC04 /* Build configuration list for PBXProject "NASAAPOD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD83F2CC1E405D750073CC04 /* Debug */,
+				AD83F2CD1E405D750073CC04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AD83F2CE1E405D750073CC04 /* Build configuration list for PBXNativeTarget "NASAAPOD" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AD83F2CF1E405D750073CC04 /* Debug */,
+				AD83F2D01E405D750073CC04 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = AD83F2B41E405D740073CC04 /* Project object */;
+}
