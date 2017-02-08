@@ -47,11 +47,11 @@ class ListViewController: UITableViewController {
             }
             
         }
-        catch{
-            NSLog("Parse Error!!")
+        //catch{
+           // NSLog("Parse Error!!")
             
             
-        }
+        //}
     }
     
     
