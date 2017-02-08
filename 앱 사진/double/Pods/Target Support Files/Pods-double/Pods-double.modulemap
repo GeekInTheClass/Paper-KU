@@ -1,6 +1,0 @@
-framework module Pods_double {
-  umbrella header "Pods-double-umbrella.h"
-
-  export *
-  module * { export * }
-}
