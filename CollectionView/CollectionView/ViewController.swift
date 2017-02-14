@@ -9,6 +9,12 @@
 import UIKit
 class ViewController: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate {
     
+    @IBOutlet weak var Scene1: UIView!
+    @IBOutlet weak var Scene2: UIView!
+    
+  
+    
+    
     var selectedCell: Int = 0
     var items: [String] = ["1", "2", "3", "4","5", "6", "7", "8",
                                  "9", "10", "11"]
@@ -21,6 +27,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         super.viewDidLoad()
         selectedCell = 0
            }
+    
     
     func collectionView(_ collectionView: UICollectionView, numberOfItemsInSection section: Int) -> Int {
         return self.items.count
@@ -45,6 +52,17 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
     
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
         // handle tap events
+        selectedCell = indexPath.item
         print("You selected cell #\(indexPath.item)!")
+        
+            let Scene:[UIView] = [Scene1,Scene2]
+        for i in 0...Scene.count-1{
+            Scene[i].alpha = 0
+            
+        }
+            Scene[indexPath.item].alpha = 1
+        
+        
+        
     }
 }
